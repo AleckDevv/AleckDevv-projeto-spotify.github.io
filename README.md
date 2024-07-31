@@ -4,7 +4,7 @@ Este projeto é um clone simples do web player do Spotify, projetado para simula
 
 ## Demonstração
 
-Você pode visualizar uma demonstração do projeto em [Link para a página ao vivo](https://seulink.com).
+Você pode visualizar uma demonstração do projeto em [Link para a página ao vivo](https://aleckdevv.github.io/AleckDevv-projeto-spotify.github.io/).
 
 ## Tecnologias Utilizadas
 
