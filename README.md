@@ -32,19 +32,26 @@ Você pode visualizar uma demonstração do projeto em [Link para a página ao v
 
 1. Clone o repositório para o seu computador:
 
-    ```bash
-    git clone https://github.com/seurepositorio/spotify-clone.git
-    ```
+   ```bash
+   git clone https://github.com/seurepositorio/spotify-clone.git
+   ```
 
-2. Navegue até o diretório do projeto:
+2. Ou copie o link para ver o projeto no ar
 
-    ```bash
-    cd spotify-clone
-    ```
+   ```bash
+   https://aleckdevv.github.io/AleckDevv-projeto-spotify.github.io/
 
-3. Abra o arquivo `index.html` em um navegador para visualizar o projeto.
+   ```
 
-4. Edite os arquivos conforme necessário para personalizar o conteúdo e o estilo.
+3. Navegue até o diretório do projeto:
+
+   ```bash
+   cd spotify-clone
+   ```
+
+4. Abra o arquivo `index.html` em um navegador para visualizar o projeto.
+
+5. Edite os arquivos conforme necessário para personalizar o conteúdo e o estilo.
 
 ## Contribuições
 
